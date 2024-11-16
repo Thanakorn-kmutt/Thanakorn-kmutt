@@ -1,7 +1,10 @@
 ## Hi, I'm Thanakorn 👋
 
-Github Stats:
-<a href="https://github.com/Thanakorn-kmutt"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanakorn-kmutt&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=444e59&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages/></a>
+Github Stats: 
+
+  ![Thanakorn-kmutt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanakorn-kmutt&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+  
+  ![Thanakorn-kmutt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thanakorn-kmutt&theme=vue-dark&hide_border=false)
 
 
 <!--
